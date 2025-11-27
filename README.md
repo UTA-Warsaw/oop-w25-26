@@ -12,8 +12,8 @@
 * pass each exam (group and 1-1)
 * personal website with Lovable
 * n8n workflow
-* EDP project on GitHub
-* article about Event Driven Programming on medium.org
+* OOP project on GitHub
+* article about OOP on medium.org
 
 ## Initial skills
 know how to:
