@@ -1,2 +1,1 @@
-
-print("Atai")
+print("Hello from Atai")
