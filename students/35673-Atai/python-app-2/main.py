@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # class Predator:
 #     x = "dangerous"
 
@@ -60,3 +61,17 @@ cow.attack()
 
 
 
+=======
+#Practising python basics (string, number)
+
+x = 9
+y = 2
+z = 3
+
+string_1="Everything"
+string_2="is"
+string_3="possible"
+
+print(x, y, z)
+print(string_1, string_2, string_3)
+>>>>>>> fae4daad2e954fb76308e421e7ed950363f5f040
