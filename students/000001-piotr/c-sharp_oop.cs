@@ -1,11 +1,26 @@
+using System;
+
 public class Person
 {
-    public string Name { get; set; }   // auto-properties
-    public int Age { get; set; }
+    // Fields
+    public string Name;
+    public int Age;
 
-    public Person(string name, int age)   // constructor
+    // Constructor
+    public Person(string name, int age)
     {
         Name = name;
         Age = age;
     }
 }
+
+public class Program
+{
+    public static void Main()
+    {
+        Person p1 = new Person("Piotr Brudny", 41);
+
+        Console.WriteLine("Name: " + p1.Name + " Age: " + p1.Age);
+    }
+}
+
