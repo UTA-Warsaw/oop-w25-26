@@ -1,2 +1,2 @@
-# content
+# contact
 https://steadybeam-project.lovable.app/
