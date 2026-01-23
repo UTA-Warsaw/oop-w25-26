@@ -9,4 +9,5 @@ c1 = Cat("Whiskers", "black")
 c2 = Cat("Yasna", "white")
 c3 = Cat("Happy", "orange")
 
-
+print(c1.name)
+print(Cat.total_count)  
