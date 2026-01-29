@@ -1,0 +1,25 @@
+class Country:
+    def __init__(self, name, population, capital_city):
+        
+       # Initializes the Country object with specific attributes.
+        
+        self.name = name
+        self.population = population
+        self.capital_city = capital_city
+
+    def display_info(self):
+   # to display
+        print(f"Country: {self.name}")
+        print(f"Capital: {self.capital_city}")
+        print(f"Population: {self.population:,}") # Adds commas for readability
+        print("-" * 20)
+
+# --- Creating Instances (Objects) ---
+
+# Creating a new country object
+france = Country("France", 67000000, "Paris")
+japan = Country("Japan", 125000000, "Tokyo")
+
+# Accessing the data
+france.display_info()
+japan.display_info()
