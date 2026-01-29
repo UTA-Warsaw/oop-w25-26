@@ -1,0 +1,13 @@
+class Country:
+    def _init_(self, name, population, capital_city):
+        self.name = name
+        self.population = population
+        self.capital_city = capital_city
+
+    def _str_(self):
+        return f"Country(name={self.name}, population={self.population}, capital_city={self.capital_city})"
+
+
+# example usage
+country = Country("ebru", "turkish", "ankara")
+print(country)
