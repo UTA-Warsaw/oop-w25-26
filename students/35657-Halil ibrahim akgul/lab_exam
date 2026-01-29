@@ -9,5 +9,5 @@ class Country:
 
 
 # example usage
-country = Country("ebru", "turkish", "ankara")
+country = Country("halil", "turkish", "ankara")
 print(country)
