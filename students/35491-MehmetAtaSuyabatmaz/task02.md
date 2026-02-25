@@ -1,0 +1,3 @@
+My QR code
+
+https://www.shopify.com/tools/qr-code-generator/show/eyJxcl9jb2RlX3R5cGUiOiJ1cmwiLCJ1cmwiOiJodHRwczovL25lb24tYmxpdHotcXVpei01M2Q1NTg5YS5iYXNlNDQuYXBwIiwiZW1haWwiOiJhdGFzdXlhYmF0bWF6QGdtYWlsLmNvbSJ9.gif
